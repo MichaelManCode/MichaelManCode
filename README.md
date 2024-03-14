@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MichaelManCode
-- 👀 I’m interested in programming applications.
-- 🌱 I’m currently learning Java and Computer Science.
+- Hi, I’m @MichaelManCode
+- I'm in Information Technology.
+- I’m interested in Web development.
 
 <!---
 MichaelManCode/MichaelManCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
